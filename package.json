@@ -1,0 +1,19 @@
+{
+  "name": "create-edu-ui",
+  "version": "0.1.0",
+  "description": "Scaffold a React + Vite + SCSS + Zustand + Radix UI project",
+  "type": "module",
+  "bin": {
+    "create-edu-ui": "./bin/index.js"
+  },
+  "keywords": [
+    "vite",
+    "react",
+    "scss",
+    "edu",
+    "cli"
+  ],
+  "author": "yovalentych",
+  "license": "MIT",
+  "dependencies": {}
+}
